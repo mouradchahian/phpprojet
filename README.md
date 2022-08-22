@@ -5,7 +5,7 @@ PHP Project
    ```sh
    composer install
    ```
-2. Creating database 
+2. Creating database, check bootstrap.php to configure your DB 
    ```sh
    php bin/doctrine orm:schema-tool:create
    ```

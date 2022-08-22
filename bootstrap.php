@@ -21,7 +21,7 @@ $conn = array(
     'host' => "localhost",
     'user'     => 'root',
     'password' => '',
-    'dbname'   => 'foo',
+    'dbname'   => 'mydatatable',
 );
 
 // obtaining the entity manager
