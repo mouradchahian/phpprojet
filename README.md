@@ -1,5 +1,5 @@
-# phpprojet
-PHP Project
+# PHP Structure Project
+PHP Project 
 
 1. Install dependencies
    ```sh
