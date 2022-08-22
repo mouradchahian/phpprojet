@@ -7,7 +7,7 @@ PHP Project
    ```
 2. Creating database, check bootstrap.php to configure your DB 
    ```sh
-   php bin/doctrine orm:schema-tool:create
+   php vendor/bin/doctrine orm:schema-tool:create
    ```
 
 3. Run application
